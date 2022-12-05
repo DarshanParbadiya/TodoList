@@ -1,0 +1,9 @@
+#ulTasks li.done{
+    text-decoration: line-through;
+    color: darkslategrey;
+    background-color: rgb(208, 235, 181);
+}
+
+/* #ulTasks li:hover{
+    background-color: cornflowerblue;
+} */
