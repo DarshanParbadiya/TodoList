@@ -1,5 +1,5 @@
 # TodoList
-A simple WebAppliction to keep track of tasks built using bootstrap, jQuery,HTML, and CSS.
+A simple responsive WebAppliction to keep track of tasks built using bootstrap, jQuery,HTML, and CSS.
 
 live website
 https://darshanparbadiya.github.io/TodoList/
